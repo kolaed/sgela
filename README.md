@@ -1,16 +1,23 @@
-# sgela
+Team Name:StartUpAndDown App Name:Sgela
 
-A new Flutter project.
+## About App
 
-## Getting Started
+Sgela is a crowdfunding app for high-schools the idea is to leverage past Alumni of the school to
+contribute to the upliftment and betterment of their schools.
 
-This project is a starting point for a Flutter application.
+We all know that south africa is very unequal i feel that education is the best chance for anyone to
+change their circumstances,
 
-A few resources to get you started if this is your first Flutter project:
+and as former students of disadvantaged schools we have a opportunity to uplift our schools and make
+things better for the next generation.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+the school will post a project(.e.g Painting the school, equipment for a science lab or even
+renovation of sports grounds) the users will pledge any amount towards the project until the goal is
+reached.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on
-mobile development, and a full API reference.
+Team Members : Thabo Kola
+
+i'm a insurance broker i started learning to code last year during lockdown and whenever i get a
+chance off work or family im developing away.
+
+I'm hoping to get into the tech industry and follow my passion.

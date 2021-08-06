@@ -1,4 +1,10 @@
-Team Name:StartUpAndDown App Name:Sgela
+# Team Name
+
+StartUpAndDown
+
+# App Name
+
+Sgela
 
 ## About App
 
